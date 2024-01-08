@@ -1,4 +1,4 @@
-# How to run
+# How to run jika ingin locahost
 
 1. Buka terminal lalu ketikan
 
